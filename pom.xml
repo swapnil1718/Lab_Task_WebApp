@@ -24,7 +24,7 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.13.1</version>
-      <scope>test</scope>
+      <scope>runtime</scope>
     </dependency>
     
    <dependency>
@@ -50,11 +50,7 @@
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-devtools</artifactId>
     <version>3.5.6</version>
-</dependency>
-
-    
-    
-    
+</dependency>    
   </dependencies>
 
   <build>
